@@ -1,11 +1,9 @@
 {
-    "owner": {
-        "username": "jadfoq",
-        "email": "jadfoq@getgoogleoff.me"
-    },
-    "record": {
-    "AAAA": [
-      "2a00:b6e0:1:20:15::1"
-    ]
+  "owner": {
+    "username": "jadfoq",
+    "email": "jadfoq@getgoogleoff.me"
+  },
+  "record": {
+    "CNAME": "spo-o0x5.onrender.com"
   }
 }

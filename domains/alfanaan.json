@@ -6,7 +6,9 @@
     },
     "record": {
         "URL": "https://timevoice.onrender.com",
-        "MX": ["mail.is-a.dev"],
+        "MX": [
+            "mail.is-a.dev"
+        ],
         "TXT": "v=spf1 mx a:mail.is-a.dev ~all"
     }
 }
